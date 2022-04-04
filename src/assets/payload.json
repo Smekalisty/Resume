@@ -1,0 +1,84 @@
+{
+    "full_name": "Evghenii Smirnov",
+    "age": "35 years old",
+    "position": "Android Developer Java\\Kotlin",
+    "country": "Republic of Moldova",
+    "about": "About",
+    "description": "In IT for 14 years. Latest 8 as Android Developer",
+    "github": "https://github.com/smekalisty",
+    "linkedin": "https://linkedin.com/in/smekalisty",
+    "experience": {
+        "fell_it": {
+            "position": "Android Developer",
+            "company": "Feel IT Services \\ Full-time",
+            "date": "October 2020 – Present",
+            "experience": "Outsourcing for clients from Europe. I usually work on several projects. Mostly I write apps for RGIS company which provides services for managing goods in a warehouse. Sometimes. My team usually has 2-3 developers. This is a proprietary app that isn't distributed through google play\n\nClient website\nhttps://rgis.com"
+        },
+        "mobiblocks": {
+            "position": "Android Developer",
+            "company": "Mobiblocks \\ Full-time",
+            "date": "May 2018 – August 2020 (2 years 4 months)",
+            "experience": "I worked on the MyArea app. This is a startup and my hardest experience. App used for finding a business near your location and finding people by profession, with a messenger, calls, events, personal contacts and other features. I made it from scratch. Written in kotlin 100%. I was Android team lead, I had 2 developers in team\n\nApplication link:\nhttps://play.google.com/store/apps/details?id=net.app.xmap\n\nWeb version:\nhttps://myarea.com"
+        },
+        "fed_co": {
+            "position": "Android Developer",
+            "company": "IT FedCo \\ Full-time",
+            "date": "October 2014 – March 2018 (3 years 6 months)",
+            "experience": "Outsourcing for the client from Europe. I develop cloud-based CMS for remote control of media content. This is a proprietary app that isn't distributed through google play\n\nClient website\nhttps://stino.com"
+        },
+        "it_pro_lab": {
+            "position": ".NET Developer",
+            "company": "IT Pro Lab \\ Full-time",
+            "date": "January 2012 – October 2014 (2 years 10 months)",
+            "experience": "Outsourcing for the client from USA. In this position I took part in the development of QMS (Quality Management Software) called MQ1 Elements. This is solution for the automation of large enterprises\n\nClient website\nhttps://qad.com"
+        },
+        "fincombank": {
+            "position": "Application Support Specialist",
+            "company": "FinComBank \\ Full-time",
+            "date": "February 2008 – December 2011 (3 years 11 months)",
+            "experience": "I started my career in a small bank. Working in a support & implementation team, I started to learn c# language. I developed several small utilities, also a program for the transfer payments from customers to the bank, which had a great success, for this I received the bonus and became the best employee of the year. Also I found a serious security vulnerability in the third-party software"
+        }
+    },
+    "education": {
+        "college": {
+            "name": "College of Informatics in Chisinau",
+            "degree": "Specialized education and Bachelor's, Information Technology",
+            "date": "2003 – 2007"
+        },
+        "lyceum": {
+            "name": "Lyceum B. P. Hasdeu",
+            "degree": "Secondary education, Maths",
+            "date": "1994 – 2003"
+        }
+    },
+    "languages": "English, Romanian, Russian",
+    "publication": {
+        "first": {
+            "primary": "Automatically publication of an app on Google Play",
+            "secondary": "Publication about continuous integration in the case of TeamCity using java libs and Google Play Developer Console",
+            "date": "April 14, 2016",
+            "link": "https://habr.com/ru/post/281557"
+        },
+        "second": {
+            "primary": "10 simple c#-tasks with a trick",
+            "secondary": "My first publication - I wrote it in order to get an invitation to the habrahabr community, now it is a little outdated, then it was the latest c# 5.0 version",
+            "date": "January 13, 2014",
+            "link": "https://habr.com/ru/post/208870"
+        }
+    },
+    "hobbies": "Chess, CS:GO, belote, tennis, table tennis, movies, sleep",
+    "quotes": {
+        "musk": {
+            "quote": "\"Eugene is a wonderful person and perfect developer! I'm proud to know him!\"",
+            "name": "- Elon Musk"
+        },
+        "shayk": {
+            "quote": "\"Handsome! When I found out that he was married I cried for three days :(\"",
+            "name": "- Irina Shayk"
+        },
+        "jong_un": {
+            "quote": "\"Your country is lucky to have a citizen like you. Come visit us again anytime!\"",
+            "name": "- Kim Jong Un"
+        }
+    }
+}
