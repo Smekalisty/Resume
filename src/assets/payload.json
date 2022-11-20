@@ -1,10 +1,11 @@
 {
     "full_name": "Evghenii Smirnov",
-    "age": "35 years old",
+    "age": "36 years old",
     "position": "Android Developer Java\\Kotlin",
     "country": "Republic of Moldova",
     "about": "About",
     "description": "In IT for 14 years. Latest 8 as Android Developer",
+    "summary": "\nIn addition to Android I have also been working with another stack:\nBackend - Ktor♥\nDevOps - Docker♥, clouds, networks, PostgreSQL\nFrontend - some experience with React & Bootstrap",
     "github": "https://github.com/smekalisty",
     "linkedin": "https://linkedin.com/in/smekalisty",
     "experience": {

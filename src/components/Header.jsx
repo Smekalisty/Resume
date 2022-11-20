@@ -21,21 +21,23 @@ const Header = (props) => {
               <h3>{props.payload.full_name}</h3>
               <div />
 
-              <h5 className={styles.secondaryText}>{props.payload.age}</h5>
+              <h5 class='secondaryText'>{props.payload.age}</h5>
               <p />
 
               {/* two */}
               <h3>{props.payload.position}</h3>
               <div />
 
-              <h5 className={styles.secondaryText}>{props.payload.country}</h5>
+              <h5 class='secondaryText'>{props.payload.country}</h5>
               <p />
 
               {/* three */}
               <h3>{props.payload.about}</h3>
               <div />
 
-              <h5 className={styles.secondaryText}>{props.payload.description}</h5>
+              <h5 class='secondaryText'>{props.payload.description}</h5>
+
+              <div style={{"white-space": "pre-wrap"}}>{props.payload.summary}</div>
               <p />
 
               <a href={props.payload.github} target="_blank" rel="noreferrer">{props.payload.github}</a>
