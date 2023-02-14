@@ -6,7 +6,7 @@
     "about": "About",
     "description": "In IT for 15 years. Latest 9 as Android Developer",
     "summary": "\nIn addition to Android I have also been working with another stack:\n- Backend: Ktor\n- DevOps: Docker, nginx, clouds, networks, PostgreSQL\n- Frontend: some experience with React & Bootstrap",
-    "disconnections_summary" : "My personal project on which I spent a lot of time\nThe service notifies about the disconnection of utility services in my country through a mobile application. Supports electricity, gas and water companies. Available only for the Republic of Moldova",
+    "disconnections_summary" : "My personal project on which I spent a lot of time\nThe service notifies about the disconnection of utility services in my country through a mobile application. Supports electricity, gas and water disconnections. Available only for the Republic of Moldova",
     "disconnections_link" : "https://play.google.com/store/apps/details?id=net.disconnections",
     "contact_me": "Contact me",
     "github": "https://github.com/smekalisty",
