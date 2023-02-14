@@ -112,6 +112,13 @@ function Resume() {
           date: data.publication.second.date,
           link: data.publication.second.link
           }} />
+
+          <Publication payload={{
+          primary: data.publication.third.primary,
+          secondary: data.publication.third.secondary,
+          date: data.publication.third.date,
+          link: data.publication.third.link
+          }} />
         </div>
 
         <div class='shadow-lg p-3 mb-5 bg-body rounded'>

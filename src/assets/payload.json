@@ -4,15 +4,18 @@
     "position": "Android Developer Java\\Kotlin",
     "country": "Republic of Moldova",
     "about": "About",
-    "description": "In IT for 14 years. Latest 8 as Android Developer",
-    "summary": "\nIn addition to Android I have also been working with another stack:\nBackend - Ktor♥\nDevOps - Docker♥, clouds, networks, PostgreSQL\nFrontend - some experience with React & Bootstrap",
+    "description": "In IT for 15 years. Latest 9 as Android Developer",
+    "summary": "\nIn addition to Android I have also been working with another stack:\n- Backend: Ktor\n- DevOps: Docker, nginx, clouds, networks, PostgreSQL\n- Frontend: some experience with React & Bootstrap",
+    "disconnections_summary" : "My personal project on which I spent a lot of time\nThe service notifies about the disconnection of utility services in my country through a mobile application. Supports electricity, gas and water companies. Available only for the Republic of Moldova",
+    "disconnections_link" : "https://play.google.com/store/apps/details?id=net.disconnections",
+    "contact_me": "Contact me",
     "github": "https://github.com/smekalisty",
     "linkedin": "https://linkedin.com/in/smekalisty",
     "experience": {
         "fell_it": {
             "position": "Android Developer",
             "company": "Feel IT Services \\ Full-time",
-            "date": "October 2020 – Present",
+            "date": "October 2020 – February 2023 (2 years 5 months)",
             "experience": "Outsourcing for clients from Europe. I usually work on several projects. Mostly I write apps for RGIS company which provides services for managing goods in a warehouse. My team usually has 2-3 developers. This is a proprietary apps that isn't distributed through google play\n\nClient website\nhttps://rgis.com"
         },
         "mobiblocks": {
@@ -55,12 +58,18 @@
     "languages": "English, Romanian, Russian",
     "publication": {
         "first": {
+            "primary": "My personal project",
+            "secondary": "Notification about disconnection of utilities in Moldova",
+            "date": "February 9, 2023",
+            "link": "https://www.facebook.com/groups/DeveloperMD/permalink/6644359348926686"
+        },
+        "second": {
             "primary": "Automatically publication of an app on Google Play",
             "secondary": "Publication about continuous integration in the case of TeamCity using java libs and Google Play Developer Console",
             "date": "April 14, 2016",
             "link": "https://habr.com/ru/post/281557"
         },
-        "second": {
+        "third": {
             "primary": "10 simple c#-tasks with a trick",
             "secondary": "My first publication - I wrote it in order to get an invitation to the habrahabr community, now it is a little outdated, then it was the latest c# 5.0 version",
             "date": "January 13, 2014",

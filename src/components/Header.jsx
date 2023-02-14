@@ -40,6 +40,14 @@ const Header = (props) => {
               <div style={{"white-space": "pre-wrap"}}>{props.payload.summary}</div>
               <p />
 
+              <hr class="hr" />
+
+              <div style={{"white-space": "pre-wrap"}}>{props.payload.disconnections_summary}</div>
+              <a href={props.payload.linkedin} target="_blank" rel="noreferrer">{props.payload.disconnections_link}</a>
+
+              <hr class="hr" />
+
+              <p /><div>{props.payload.contact_me}</div>
               <a href={props.payload.github} target="_blank" rel="noreferrer">{props.payload.github}</a>
               <div />
               <a href={props.payload.linkedin} target="_blank" rel="noreferrer">{props.payload.linkedin}</a>
