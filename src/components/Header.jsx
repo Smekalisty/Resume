@@ -43,7 +43,7 @@ const Header = (props) => {
               <hr class="hr" />
 
               <div style={{"white-space": "pre-wrap"}}>{props.payload.disconnections_summary}</div>
-              <a href={props.payload.linkedin} target="_blank" rel="noreferrer">{props.payload.disconnections_link}</a>
+              <a href={props.payload.disconnections_link} target="_blank" rel="noreferrer">{props.payload.disconnections_link}</a>
 
               <hr class="hr" />
 

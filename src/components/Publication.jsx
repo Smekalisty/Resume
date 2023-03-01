@@ -8,7 +8,7 @@ const Publication = (props) => {
             <h5 class='secondaryText'>{props.payload.secondary}</h5>
             <h6 class='secondaryText'>{props.payload.date}</h6>
 
-            <a href={props.payload.link} target="_blank" rel="noreferrer">{props.payload.link}</a>
+            <a href={props.payload.link} target="_blank" rel="noreferrer">Open publication</a>
         </div>
     );
 };
