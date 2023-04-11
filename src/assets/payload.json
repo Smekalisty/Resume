@@ -1,11 +1,11 @@
 {
     "full_name": "Evghenii Smirnov",
     "age": "36 years old",
-    "position": "Android Developer Java\\Kotlin",
+    "position": "Android Developer, Backend Developer Java\\Kotlin",
     "country": "Republic of Moldova",
     "about": "About",
     "description": "In IT for 15 years. Latest 9 as Android Developer",
-    "summary": "\nIn addition to Android I have also been working with another stack:\n- Backend: Ktor\n- DevOps: Docker, nginx, clouds, networks, PostgreSQL\n- Frontend: some experience with React & Bootstrap",
+    "summary": "\nIn addition to Android I have experience in the technologies listed below:\n- Backend: Ktor\n- DevOps: Docker, nginx, clouds, networks, PostgreSQL\n- Frontend: some experience with React & Bootstrap",
     "disconnections_summary" : "My personal project on which I spent a lot of time\nThe service notifies about the disconnection of utility services in my country through a mobile application. Supports electricity, gas and water disconnections. Available only for the Republic of Moldova",
     "disconnections_link" : "https://play.google.com/store/apps/details?id=net.disconnections",
     "contact_me": "Contact me",
@@ -13,13 +13,13 @@
     "linkedin": "https://linkedin.com/in/smekalisty",
     "experience": {
         "fell_it": {
-            "position": "Android Developer",
+            "position": "Lead Android Developer \\ Backend Developer",
             "company": "Feel IT Services \\ Full-time",
             "date": "October 2020 – February 2023 (2 years 5 months)",
             "experience": "Outsourcing for clients from Europe. I usually work on several projects. Mostly I write apps for RGIS company which provides services for managing goods in a warehouse. My team usually has 2-3 developers. This is a proprietary apps that isn't distributed through google play\n\nClient website\nhttps://rgis.com"
         },
         "mobiblocks": {
-            "position": "Android Developer",
+            "position": "Lead Android Developer",
             "company": "Mobiblocks \\ Full-time",
             "date": "May 2018 – August 2020 (2 years 4 months)",
             "experience": "I worked on the MyArea app. This is a startup and my hardest experience. App used for finding a business near your location and finding people by profession, with a messenger, calls, events, personal contacts and other features. I made it from scratch. Written in kotlin 100%. I was Android team lead, I had 2 developers in team\n\nApplication link:\nhttps://play.google.com/store/apps/details?id=net.app.xmap\n\nWeb version:\nhttps://myarea.com"

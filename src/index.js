@@ -8,3 +8,8 @@ ReactDOM.render(
   <Resume />,
   document.getElementById('root')
 );
+
+// Notes
+// 1) npm run build
+// 2) npm start
+// 3) firebase deploy
